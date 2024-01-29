@@ -6,7 +6,7 @@ public class Node {
         this.y = y;
     }
 
-    public Node(Node other){ //other constructor for food comparison
+    public Node(Node other){ //other constructor for food comparisons
         this.x = other.x;
         this.y = other.y;
     }
