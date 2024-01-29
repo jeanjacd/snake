@@ -165,7 +165,7 @@ public class Snake extends JPanel implements KeyListener, ActionListener {
         frame.add(new Snake(), BorderLayout.CENTER);
         frame.pack();   
         frame.setLocationRelativeTo(null);
-        frame.setVisible(true);
+        frame.setVisible(true); //create the frame
 
     }
 }
